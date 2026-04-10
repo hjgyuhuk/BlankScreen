@@ -1,5 +1,7 @@
 # 全黑屏 (Blank Screen)
 
+[English](README.md)
+
 一个极简的 Android 应用，旨在显示完全纯黑的屏幕并防止设备进入休眠状态。
 
 ## 功能特性

@@ -1,5 +1,7 @@
 # Blank Screen
 
+[简体中文](README.zh-CN.md)
+
 A minimalist Android application that displays a completely black screen and prevents the device from sleeping.
 
 ## Features
