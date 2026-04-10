@@ -1,0 +1,35 @@
+# 编译生成
+**/build/
+**/release/
+captures/
+
+# 本地环境配置
+.gradle/
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/modules.xml
+/.idea/assetWizardSettings.xml
+/.idea/navEditor.xml
+.idea/caches
+.idea/shelf
+
+# 模块文件
+*.iml
+*.ipr
+*.iws
+
+# 外部库
+/externals/
+
+# 签名文件
+*.jks
+*.keystore
+*.p12
+
+# macOS
+.DS_Store
+
+# Google Services
+# google-services.json
+
